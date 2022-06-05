@@ -2,4 +2,4 @@
 - 👀 I’m interested in Neural Networks
 - 🌱 I’m currently learning HTML,CSS,JS,PHP,Python,SQL
 - 💞️ I’m looking to collaborate on Google :)
-- 📫 How to reach me dimondima2004@gmail.com
+- 📫 How to reach me dmitrislobodian@gmail.com
